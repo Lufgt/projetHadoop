@@ -5,8 +5,6 @@ Ce projet fait partie du **Projet BIG DATA** dans le cadre du **POEC Data Analys
 ## Lien du GitHub
 https://github.com/Lufgt/projetHadoop
 
-## Lien de la présentation
-https://www.canva.com/design/DAGQpbBMYzE/tMnVU8jp21q56vuvVq3QzA/view?utm_content=DAGQpbBMYzE&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel
 
 ## Objectif du projet
 
